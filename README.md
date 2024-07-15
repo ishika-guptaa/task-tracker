@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Tast Tracker</h1>
+<h1 align="center" id="title">Task Tracker</h1>
 
 <p align="center"><img src="https://i.imgur.com/KmYSmqA.png" alt="project-image" height="200"></p>
 
